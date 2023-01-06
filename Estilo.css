@@ -1,6 +1,6 @@
 
 body{
-    background-color: yellow;
+    background-color: #f4f4f4;
 }
 
 .vantagens{
@@ -29,7 +29,7 @@ body{
 }
 
 .footer{
-    background-color: rgb(170, 9, 36) ;
+    background-color: rgb(223, 7, 43) ;
     display: flex;
     justify-content: space-between;
     padding: 55px calc((100% - 960px)/2);
